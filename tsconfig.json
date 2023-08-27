@@ -1,3 +1,6 @@
 {
+  "compilerOptions": {
+    "types": ["./custom-types.d.ts"]
+  },
   "extends": "@tsconfig/react-native/tsconfig.json"
 }
